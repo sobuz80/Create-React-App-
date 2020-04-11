@@ -1,0 +1,16 @@
+npx create-react-app my-app
+cd my-app
+npm start
+
+npm install --save react-router-dom react-icons styled-components bootstrap
+#https://react-icons.netlify.com/#/
+#https://styled-components.com/
+
+
+
+npm install --save react-router-dom
+npm install react-router-dom
+npm install axios
+npm install --save bootstrap
+npm i styled-components
+
